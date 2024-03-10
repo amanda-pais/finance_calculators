@@ -22,10 +22,10 @@ To use the Financial Calculator, follow these steps:
 
 ### Screenshots
 #### Investment Calculation
-![Investment Calculation](images/investment_calculation.png)
+![Investment Calculation](/investment_calculation.png)
 
 #### Bond Repayment Calculation
-![Bond Repayment Calculation](images/bond_repayment_calculation.png)
+![Bond Repayment Calculation](/bond_repayment_calculation.png)
 
 ## Credits
 - Developed by Amanda Pais
